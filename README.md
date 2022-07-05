@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> Lending club project Problem statement:In this case study, we are using EDA to understand how consumer attributes and loan attributes influence the tendency of default.
+> Lending club project Problem statement: In this case study, we are using EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
 
 ## Table of Contents
@@ -17,7 +17,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Analysis is provided using EDA for the defaulty pattern in the dataset
+- Analysis is provided using EDA for the default pattern in the dataset
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
