@@ -4,8 +4,8 @@
 
 ## Table of Contents
 * [General Info]
-* [Technologies Used]
 * [Conclusions]
+* [Technologies Used]
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
